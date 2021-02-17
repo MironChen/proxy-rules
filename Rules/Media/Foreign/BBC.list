@@ -1,0 +1,9 @@
+# BBC
+user-agent,BBC*,BBC
+user-agent,BBCBeacon*,BBC
+host-keyword,bbcfmt,BBC
+host-keyword,uk-live,BBC
+host-suffix,bbc.com,BBC
+host-suffix,bbc.co.uk,BBC
+host-suffix,bbci.co.uk,BBC
+host-suffix,vod-hls-uk-live.akamaized.net,BBC

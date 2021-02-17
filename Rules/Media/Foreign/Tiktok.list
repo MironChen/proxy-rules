@@ -1,0 +1,6 @@
+# TikTok
+user-agent,TikTok*,TikTok
+host-suffix,musical.ly,TikTok
+host-suffix,tiktokv.com,TikTok
+host-suffix,tiktokcdn.com,TikTok
+host-keyword,-tiktokcdn-com,TikTok
