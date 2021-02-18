@@ -6,7 +6,7 @@
 
  **仓库内容来源于网络中 如有侵权或未标明出处请预留issue**
 
-Readme 修改自 [sve1r](https://github.com/sve1r)/**[Rules-For-Quantumult-X](https://github.com/sve1r/Rules-For-Quantumult-X)**
+Readme 修改自 [sve1r](https://github.com/sve1r)/**[Rules-For-Quantumult-X](https://github.com/sve1r/Rules-For-Quantumult-X)**，配置文件之图片源自 [Koolson](https://github.com/Koolson)/**[Qure](https://github.com/Koolson/Qure)**
 
 -----
 
