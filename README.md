@@ -45,30 +45,35 @@
 
 ### 2.安装步骤
 
-1. 选择你想要使用的规则（本仓库附带两个 config 文件，可按需选择
-2. 获取 RAW 链接
+1. 设置预配置 config
+```
+例如
+
+  https://raw.githubusercontent.com/MironChen/proxy-rules/master/SabrinaQuanxConf.conf
+```
+
+2. 选择你想要使用的规则（本仓库附带两个 config 文件，可按需选择
+3. 获取列表的 RAW 链接
+
 ```
 例如：
   
-  https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/master/Rules/Media/ForeignMedia.list 
+  https://raw.githubusercontent.com/MironChen/proxy-rules/master/Rules/SabrinaQuanxConf/AdBlock.list
   此为浏览器地址栏中获取到的链接
+```
+4. 搭建 **[gh-proxy](https://github.com/hunshcn/gh-proxy)**
+5. 使用 **gh-proxy CDN** 替换 RAW 链接,以避免更新配置时出错的相关问题
 
 ```
-3.使用 **镜像加速域名** 替换 RAW链接,以避免更新配置时出错的相关问题
-
-```
-例如：
+  假设你在 ph-proxy 的链接为 https://example.com
   
-  https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/master/Rules/Media/ForeignMedia.list 
+  如需使用 https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/master/Rules/Media/ForeignMedia.list 
   
-  请将 *raw.githubusercontent.com* 替换为 *raw.sevencdn.com*
+  则在 https://raw.githubusercontent.com 添加 https://example.com/ 
   
-  替换后链接为
-  
-  https://raw.sevencdn.com/sve1r/Rules-For-Quantumult-X/master/Rules/Media/ForeignMedia.list 
+  替换后链接为 https://example.com/https://raw.githubusercontent.com/MironChen/proxy-rules/master/Rules/SabrinaQuanxConf/AdBlock.list 
 ```
 
-#### *此处鸣谢 7ed.net 提供的公共 CDN 加速服务*
 
 
 ### 3.推荐排序（使用 sve1r.conf）
