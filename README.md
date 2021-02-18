@@ -6,7 +6,7 @@
 
  **仓库内容来源于网络中 如有侵权或未标明出处请预留issue**
 
-
+Readme 修改自 [sve1r](https://github.com/sve1r)/**[Rules-For-Quantumult-X](https://github.com/sve1r/Rules-For-Quantumult-X)**
 
 -----
 
@@ -67,11 +67,11 @@
 ```
   假设你在 ph-proxy 的链接为 https://example.com
   
-  如需使用 https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/master/Rules/Media/ForeignMedia.list 
+  如需使用 https://raw.githubusercontent.com/MironChen/proxy-rules/master/Rules/SabrinaQuanxConf/AdBlock.list 
   
-  则在 https://raw.githubusercontent.com 添加 https://example.com/ 
+  则在 https://raw.githubusercontent.com 添加 https://example.com/ (原链接的 https:// 可删除)
   
-  替换后链接为 https://example.com/https://raw.githubusercontent.com/MironChen/proxy-rules/master/Rules/SabrinaQuanxConf/AdBlock.list 
+  替换后链接为 https://example.com/raw.githubusercontent.com/MironChen/proxy-rules/master/Rules/SabrinaQuanxConf/AdBlock.list
 ```
 
 
@@ -168,15 +168,13 @@
 
 # **5⃣️许可与说明**
 
+- 此项目基于 [sve1r](https://github.com/sve1r)/**[Rules-For-Quantumult-X](https://github.com/sve1r/Rules-For-Quantumult-X)** 、 [GeQ1an](https://github.com/GeQ1an)/**[Rules](https://github.com/GeQ1an/Rules)** （已删库）和 [Oxin92o](https://github.com/Oxin92o)/**[QuantumultX](https://github.com/Oxin92o/QuantumultX)** 的预配置文件重新整合及调整制作
 - 本项目的所有文件，README 等资源基于一个 [MIT License](LICENSE) 发布，你可以拷贝、再发行本项目的内容, 但是你将必须：
   - 使用**完全相同**的条款和格式发布。
   - 请注明原作者信息以及协议声明。
   - 同时请勿**将本项目用于商业用途**，**任何盈利活动都属于商业用途**。
-  
 - 本项目的所有代码除另有说明外，均基于MIT License发布。
-
 - 此处的文字仅用于说明，条款以LICENSE文件中的内容为准。
-
 - 请在遵守当地相关法律法规的前提下使用本项目，我们不为使用此项目内容出现问题负任何责任。
 
 
